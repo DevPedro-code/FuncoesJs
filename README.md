@@ -3,20 +3,21 @@
 
 Arrow Function
 ```
-let subtracao (a,b){
+let subtracao (a,b) => {
   return a - b;
 }
 ```
 
 Declaration Function
 ```
-Function subtracao (a,b){
+function subtracao (a,b){
   return a - b;
 }
 ```
 Expression Function
 
 ```
-let multiplicacao = Finction (a,b){
+let multiplicacao = function (a,b){
 return a * b;
+}
 ```
